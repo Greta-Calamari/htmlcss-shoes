@@ -43,6 +43,9 @@ ul{
     margin-left: 5px;
  }  
 
+.nav-circle:hover{
+    background-color: blueviolet;
+}
 
 a{
     text-decoration: none;
