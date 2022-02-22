@@ -64,10 +64,46 @@ a{
     height: 100vh;
 }
  
-img{
-    position: absolute;
-    transform: translate(50%,50%);
+
+section{
+    display: inline-block;
 }
+
+img {
+    position: absolute;
+    transform: translate(110%,50%);
+}
+
+.text-up{
+    color: yellow;
+    font-size: 50px;
+    position:absolute;
+    transform: translate(125%,1400%);
+}
+
+.text-down{
+    color: yellow;
+    position:absolute;
+    font-size: 50px;
+    transform: translate(320%,1500%);
+
+}
+.text-up2{
+    color: green;
+    font-size: 50px;
+    position:absolute;
+    transform: translate(125%,1400%);
+}
+
+.text-down2{
+    color: green;
+    position:absolute;
+    font-size: 50px;
+    transform: translate(320%,1500%);
+
+}
+
+    
     
     
     
